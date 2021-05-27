@@ -20,7 +20,7 @@
   position: relative;
   padding: 1em;
   animation-name: cambiodecolores;
-  animation-duration: 2.5s;
+  animation-duration: 3s;
 }
 
 .contents
@@ -73,7 +73,7 @@ html{
 
 a{
   text-decoration: none;
-  color: #d500f9;
+  color: #black;
 }
 
 a:hover{

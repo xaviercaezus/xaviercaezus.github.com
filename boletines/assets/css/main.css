@@ -19,6 +19,7 @@
   border-radius: 4px;
   position: relative;
   padding: 1em;
+  animate__ animated animate__fadeInLeft
   animation-name: cambiodecolores;
   animation-duration: 3s;
 }

@@ -9,7 +9,7 @@
     justify-contents: center;
   }
   
-  .content{
+  #content{
     max-width: 900px;
     max-height: 400px;
     width: 100%;

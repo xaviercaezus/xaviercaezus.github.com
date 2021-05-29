@@ -14,14 +14,12 @@
     box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
     border-radius: 4px;
     position: relative;
-    overflow: scroll;}
+    overflow: hidden}
 
   .content{
-    padding: 1em;}
-td:nth-last-of-type(1){
+    padding: 1em;
   font-size: 2em;
-  font-weight: bold;
-  color: #642873;}
+  font-weight: bold;}
 th{
   display: none;}
 
@@ -124,11 +122,7 @@ th{
   }
 
 @media (min-width:900px){
-  th{display: table-cell;}
-  td{width: auto; display: table-cell;}
-  td:nth-last-of-type(1){font-size:2em}
+  th{display: table-cell}
+  td{width: auto;
  .content{padding: 1em;}
-
-@media (min-height:550px){
-  .content{
-  height: 500px;}
+}
